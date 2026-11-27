@@ -1,0 +1,10 @@
+{
+  "description": "A customizable client settings interface for managing modules, keybinds, themes, and detailed controls, with search and favorites for faster setup.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
